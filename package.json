@@ -1,0 +1,22 @@
+{
+  "name": "oat1-javascript-apis",
+  "version": "1.0.0",
+  "description": "OAT 1 (Parte A) - Laboratório Prático de JavaScript - Desenvolvimento de APIs (2026.2)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "q1": "node src/q1-contagem-regressiva.js",
+    "q2": "node src/q2-calculadora-imc.js",
+    "q3": "node src/q3-tabuada.js",
+    "q4": "node src/q4-validador-usuario.js",
+    "q5": "node src/q5-analisador-numeros.js",
+    "q6": "node src/q6-conversor-temperatura.js",
+    "q7": "node src/q7-contador-caracteres.js",
+    "q8": "node src/q8-gerador-token.js",
+    "q9": "node src/q9-maior-palavra.js",
+    "q10": "node src/q10-distribuir-times.js"
+  },
+  "keywords": ["javascript", "node", "apis", "unex"],
+  "author": "",
+  "license": "MIT"
+}
