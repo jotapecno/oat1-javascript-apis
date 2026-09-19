@@ -3,6 +3,7 @@
 **Disciplina:** Desenvolvimento de APIs — 2026.2
 **Curso:** Sistemas de Informação (Noturno)
 **Docente:** Prof. Ramon da Paixão Muricy
+**Discente:** João Paulo de Oliveira Carneiro
 **Centro Universitário:** UNEX
 
 Implementação dos 10 desafios práticos de JavaScript propostos na OAT 1 , cada um em um módulo separado dentro de `src/`, com testes de demonstração via `console.log`.
