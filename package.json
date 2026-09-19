@@ -17,6 +17,6 @@
     "q10": "node src/q10-distribuir-times.js"
   },
   "keywords": ["javascript", "node", "apis", "unex"],
-  "author": "",
+  "author": "João Paulo de Oliveira Carneiro",
   "license": "MIT"
 }
